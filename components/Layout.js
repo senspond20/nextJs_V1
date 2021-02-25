@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
+import CalendarEl from './CalendarEl';
+// import link  from 'next/link';
 // import styles from '../styles/globals.module.css'
 
 class Layout extends Component {
@@ -15,6 +17,7 @@ class Layout extends Component {
 
       <main className={styles.main}>
         <h1>VVV - wiki</h1>
+    
         <div class="main">
             <div class="grid">
                 <div class="card"> 
@@ -47,6 +50,7 @@ class Layout extends Component {
         </div>
         </main>
       </div>
+      <CalendarEl />
         <footer className={styles.footer}>
             Powered by{' '}  VVV
         </footer>
