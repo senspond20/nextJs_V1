@@ -30,10 +30,6 @@ class Layout extends Component {
                     <p>고객에 대한 정보를 샘플링하는 것만으로는 더 이상 충분하지 않습니다. 고객의 실제 행동에 대한 중요한 인사이트를 얻어야 합니다. 이를 위해서는 머신 러닝과 딥 러닝 알고리즘을 구동할 수 있는 엄청난 양의 데이터가 필요합니다. IDC가 IBM 빅데이터 인프라가 AI의 성공적인 구현과 편견 없는 진정한 실시간 인사이트를 제공하는 핵심이라고 판단하는 이유를 알아봅니다..</p>
                 </div>
                 <div class="card"> 
-                    <h3>About &rarr;</h3>
-                    <p>Find in-depth information about Next.js features and API.</p>
-                </div>
-                <div class="card"> 
                     <h3>엔터프라이즈의 AI &rarr;</h3>
                     <p>AI 기술은 한때 인력이 필요했던 프로세스 또는 작업을 자동화하여 기업의 성능과 생산성을 향상시키고 있습니다. AI는 또한 인간이 할 수 없는 규모의 데이터를 이해할 수 있습니다. 이러한 기능은 상당한 비즈니스 이점을 가져다 줄 수 있습니다. 예를 들면 넷플릭스는 머신 러닝을 사용하여 개인화 수준을 제공하며, 이 회사는 2017년에 고객 기반을 25% 이상 늘릴 수 있었습니다.</p>
                 </div>
@@ -45,7 +41,7 @@ class Layout extends Component {
                 </div>
                 <div class="card"> 
                     <h3>About &rarr;</h3>
-                    <p>Find in-depth information about Next.js features and API.</p>
+                    <p>Find VVV.</p>
                 </div>
             </div>
         </div>
